@@ -1,0 +1,7 @@
+{
+  "name": "d2l-intersection-observer-polyfill-import",
+  "dependencies": {
+    "intersection-observer": "^0.4.3"
+  },
+  "author": "D2L Corporation"
+}

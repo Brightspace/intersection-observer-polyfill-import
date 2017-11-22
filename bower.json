@@ -1,0 +1,16 @@
+{
+  "name": "d2l-intersection-observer-polyfill-import",
+  "homepage": "https://github.com/Brightspace/intersection-observer-polyfill-import",
+  "authors": [
+    "D2L Corporation"
+  ],
+  "description": "An IntersectionObserver polyfill HTML import",
+  "main": "intersection-observer.html",
+  "license": "Apache-2.0",
+  "ignore": [
+    "**/.*",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
